@@ -8,7 +8,7 @@
 Holographic1.0.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Holographic1.0\App.cs: 7F1400ACF4197341E22DD588F15A1F1A
-Holographic1.0\Holographic1.0.csproj: ACA97A87FA2CF720EFB35A75883E1D8F
+Holographic1.0\Holographic1.0.csproj: 4818D3C1EAABC3F2C06E58C4D4778682
 Holographic1.0\Holographic1.0.csproj.user: modified
 Holographic1.0\Package.appxmanifest: 8E3501420D53D94DE11809D969AD49A2
 Holographic1.0\project.json: 1D02BC64BAC0D041019673A1C4C51737
