@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-05 10:43:30" name="HoloGrisons" targetId="70bd4c883e994b16bb76b8299ffaf2d3" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-02 11:22:46" name="BFH_Karte_zum_Testen" targetId="e2e9361e34ad4e359d3500982b8b29a6" version="2.0" />
+  </TargetSet>
+</QCARInfo>
