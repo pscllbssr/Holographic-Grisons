@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+
+# custom build directory for VS
 App/
 
 # Visual Studio cache directory
