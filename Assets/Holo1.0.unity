@@ -313,7 +313,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &304467903
 Transform:
   m_ObjectHideFlags: 0
@@ -759,6 +759,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 952927092cf13ec4f977d9d2fd7142d1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 952927092cf13ec4f977d9d2fd7142d1, type: 3}
   m_IsPrefabParent: 0
@@ -796,8 +800,8 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Convex: 1
-  m_CookingOptions: -1
+  m_Convex: 0
+  m_CookingOptions: -2
   m_SkinWidth: 1e-12
   m_Mesh: {fileID: 4300004, guid: 952927092cf13ec4f977d9d2fd7142d1, type: 3}
 --- !u!114 &1139510854
@@ -812,13 +816,44 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PilatusPanel: {fileID: 1173954675}
+--- !u!1 &1139510855 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100010, guid: 952927092cf13ec4f977d9d2fd7142d1, type: 3}
+  m_PrefabInternal: {fileID: 1139510848}
+--- !u!114 &1139510856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1139510855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0782703a706556b4f9a1946cc0ca3343, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  altColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  Sphere: {fileID: 1139510850}
+--- !u!64 &1139510857
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1139510855}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: -2
+  m_SkinWidth: 1e-13
+  m_Mesh: {fileID: 4300008, guid: 952927092cf13ec4f977d9d2fd7142d1, type: 3}
 --- !u!114 &1139510861
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1139510851}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 55ed7197de491c547a4b3972973dd9ab, type: 3}
   m_Name: 
@@ -841,7 +876,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &1173954676
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1101,7 +1136,7 @@ Camera:
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 0
-  m_AllowMSAA: 1
+  m_AllowMSAA: 0
   m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1

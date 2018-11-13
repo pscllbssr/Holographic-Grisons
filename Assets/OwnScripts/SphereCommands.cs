@@ -22,6 +22,7 @@ public class SphereCommands : MonoBehaviour {
         //transform.Translate(Vector3.up * Time.deltaTime, Space.World);
         
         PilatusPanel.SetActive(!PilatusPanel.activeSelf);
+    
 
         // If the sphere has no Rigidbody component, add one to enable physics.
         /*if (!this.GetComponent<Rigidbody>())
