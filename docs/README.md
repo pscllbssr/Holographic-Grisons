@@ -68,4 +68,4 @@ Erfordert eine Hololens, Anforderungen an Entwicklungs-Maschine
 
 ## Potentielle Weiterentwicklung
 
-[logo]: https://drive.google.com/file/d/1vYfxedKFKBdHM2rE3ubaff5mJjHkIHBs/view "Screenshot der Application"
+[logo]: https://lh6.googleusercontent.com/TvmsFDZDUK4iZalC-uNTLM5whjiJdJCUjdxHIoJW7dt4gm1BNayukDJ2S1JG3YfnvFb32Uvccf93qK9E1yRI=w1920-h942-rw "Screenshot der Application"
