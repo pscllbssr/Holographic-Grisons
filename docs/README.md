@@ -73,6 +73,10 @@ Die Skalierung und Positionierung des 3D-Objekts auf den physische Modell war di
 
 Ein weiteres Problem waren die vielen Polygone. Am Anfang standen wir bei gesamthaft 142'000 Polygonen in der Applikation. Das haben wir auch in der Performance gemerkt. Die Applikation war entsprechend schwerfällig und der Cursor hinkte hinterher. Das lag vor allem an unserem Bergmodell, das wir mit der App in ein 3D-Modell umgewandelt hatten. Dank Instant Meshes und durch entfernen des Lichts in der Szene konnten wir diese Zahl erheblich verringern.
 
+## Code 
+
+Viel einstellen, wenig selber coden
+
 ## Learnings
 
 Hololens schwierig, Zukunft? Tutorials?
