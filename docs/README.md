@@ -1,10 +1,12 @@
-Holographic Grisons
+# Holographic Grisons
 
 Die Holographic Grisons App projiziert virtuelle Informationen auf ein physisch vorhandenes Bergmodell. Die Applikation läuft auf der Microsoft Hololens. Diese Projekt wurde im Rahmen des Major Media Applications an der HTW Chur und der BFH erstellt.
 
 (Bild/Screenshot)
 
 So bekommt der interessierte Benutzer beispielsweise ein Gefühl für die Beschaffenheit der Wanderwege und die Möglichkeiten vor Ort. Diese Informationen können an die eigene E-Mail Adresse versendet werden. 
+
+[[TOC]]
 
 ## Zugangsdaten
 
@@ -14,23 +16,15 @@ Sämtlicher Code für dieses Projekt ist auf Github gehostet.
 
 ## Konzeption & Testing
 
-<table>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+Um mehr über die Bedürfnisse der Benutzer herauszufinden, haben wir auf Papier Prototypen zurückgegriffen und diese spielerisch mit Probanden durchgetestet. Daraus haben wir folgende Erkenntnisse gezogen:
 
+* pi
 
-## verwendete Technologien
+* pa 
+
+* pu
+
+## Verwendete Technologien
 
 ### Bergmodell
 
@@ -60,6 +54,8 @@ Das in Unity erstellte Projekt lässt sich in Microsoft Visual Studio importiere
 
 ### Entwicklungsumgebung für Hololens
 
+Applikationen für die Hololens haben grundsätzlich eine grosse Hürde: Das Gerät ist teuer.
+
 Erfordert eine Hololens, Anforderungen an Entwicklungs-Maschine
 
 ### Umgang mit Hololens (Eigenschaften)/Debugging
@@ -71,4 +67,3 @@ Erfordert eine Hololens, Anforderungen an Entwicklungs-Maschine
 ## Learnings
 
 ## Potentielle Weiterentwicklung
-
