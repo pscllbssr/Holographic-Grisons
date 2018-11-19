@@ -58,11 +58,14 @@ Applikationen für die Hololens haben grundsätzlich eine grosse Hürde: Das Ger
 
 Zudem sind die Anforderungen an die Entwicklungs-Hardware zum Teil sehr strikt. Der Hololens-Emulator läuft beispielsweise nur mit Hyper-V, was Windwos 10 Professional voraussetzt.
 
-### Umgang mit Hololens (Eigenschaften)/Debugging
+Das Übertragen der Applikation von Unity über Visual Studio auf die Hololens nimmt jeweils mehrere Minuten in Anspruch, was den Entwicklungsprozess enorm ausbremst. Das austesten von kleinen Änderungen dauert so unnötig lange. 
+
+### Marker & Positionierung
+
+In einem ersten Schritt wollten wir den Berg, respektive die zustäzlichen Infos via 3D-Objekterkennung anzeigen lassen. Das hätte uns einen zusätzlichen Marker erspart. Dafür haben wir auf [https://www.vuforia.com/](Vuforia) zurückgegriffen. 
+Die 3D-Objekterkennung arbeitete jedoch nicht zuverlässig. Wir vermuten den Grund in den wechselnden Lichtverhältnissen. Aus diesem Grund haben wir einen 2D-Marker auf A4-Papier erstellt und ihn in einer bestimmten Position zum Berg positioniert.
 
 
-
-### richtige/statische Positionierung
 
 ### Zu viele Polygone
 
