@@ -62,10 +62,10 @@ Das Übertragen der Applikation von Unity über Visual Studio auf die Hololens n
 
 ### Marker & Positionierung
 
-In einem ersten Schritt wollten wir den Berg, respektive die zustäzlichen Infos via 3D-Objekterkennung anzeigen lassen. Das hätte uns einen zusätzlichen Marker erspart. Dafür haben wir auf [https://www.vuforia.com/](Vuforia) zurückgegriffen. 
+In einem ersten Schritt wollten wir den Berg, respektive die zustäzlichen Infos via 3D-Objekterkennung anzeigen lassen. Das hätte uns einen zusätzlichen Marker erspart. Dafür haben wir auf [Vuforia](https://www.vuforia.com/) zurückgegriffen. 
 Die 3D-Objekterkennung arbeitete jedoch nicht zuverlässig. Wir vermuten den Grund in den wechselnden Lichtverhältnissen. Aus diesem Grund haben wir einen 2D-Marker auf A4-Papier erstellt und ihn in einer bestimmten Position zum Berg positioniert.
 
-
+Die Skalierung und Positionierung des 3D-Objekts auf den physische Modell war die nächste Herausforderung. Da die beiden Grössenmasse in keinem Verhältnis zueinander stehen, mussten wir schlussendlich solange an den Grössen drehen, bis wir ein passendes Ergebnis erhielten.
 
 ### Zu viele Polygone
 
