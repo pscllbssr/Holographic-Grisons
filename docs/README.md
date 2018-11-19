@@ -4,10 +4,6 @@ Die Holographic Grisons App projiziert virtuelle Informationen auf ein physisch 
 
 So bekommt der interessierte Benutzer beispielsweise ein Gefühl für die Beschaffenheit der Wanderwege und die Möglichkeiten vor Ort. Diese Informationen können an die eigene E-Mail Adresse versendet werden. 
 
-![alt_text][screenshot]
-
-[[ TOC ]]
-
 ## Zugangsdaten
 
 Sämtlicher Code für dieses Projekt ist auf Github gehostet.
