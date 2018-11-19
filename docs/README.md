@@ -48,7 +48,8 @@ In der Entwicklungsumgebung Unity setzten wir die einzelnen Elemente zu einem ga
 
 ### Microsoft Visual Studio
 
-Das in Unity erstellte Projekt lässt sich in Microsoft Visual Studio importieren, um es anschliessend auf die Hololens zu übertragen. Dazu muss die Hololens einmalig konfiguriert werden, danach wird eine bestehende WLAN-Verbindung benötigt. In Visual Studio lässt sich die Applikation zudem debuggen.
+Das in Unity erstellte Projekt lässt sich in Microsoft Visual Studio importieren, um es anschliessend auf die Hololens zu übertragen. Dazu muss die Hololens einmalig konfiguriert werden, danach wird eine bestehende WLAN-Verbindung benötigt. In Visual Studio lässt sich die Applikation theoretisch debuggen. Der Debugger bricht aber teilweise an Stellen ab, die ohne Debugging in der Hololens funktionieren. 
+
 
 ## Technische Herausforderungen
 
@@ -58,19 +59,25 @@ Applikationen für die Hololens haben grundsätzlich eine grosse Hürde: Das Ger
 
 Zudem sind die Anforderungen an die Entwicklungs-Hardware zum Teil sehr strikt. Der Hololens-Emulator läuft beispielsweise nur mit Hyper-V, was Windwos 10 Professional voraussetzt.
 
-Das Übertragen der Applikation von Unity über Visual Studio auf die Hololens nimmt jeweils mehrere Minuten in Anspruch, was den Entwicklungsprozess enorm ausbremst. Das austesten von kleinen Änderungen dauert so unnötig lange. 
+Das Übertragen der Applikation von Unity über Visual Studio auf die Hololens nimmt jeweils mehrere Minuten in Anspruch, was den Entwicklungsprozess enorm ausbremst. Das austesten von kleinen Änderungen dauert so unnötig lange. Zudem kommt es immer mal wieder vor, dass die Übertragung auf die Hololens mit einer kryptischen Fehlermeldung abbricht. Zum Teil kann man die Übertragung noch einmal starten. Teilweise mussten wir aber auch einige Schritte zurück gehen damit es wieder funktionierte.
 
 ### Marker & Positionierung
 
 In einem ersten Schritt wollten wir den Berg, respektive die zustäzlichen Infos via 3D-Objekterkennung anzeigen lassen. Das hätte uns einen zusätzlichen Marker erspart. Dafür haben wir auf [Vuforia](https://www.vuforia.com/) zurückgegriffen. 
 Die 3D-Objekterkennung arbeitete jedoch nicht zuverlässig. Wir vermuten den Grund in den wechselnden Lichtverhältnissen. Aus diesem Grund haben wir einen 2D-Marker auf A4-Papier erstellt und ihn in einer bestimmten Position zum Berg positioniert.
 
-Die Skalierung und Positionierung des 3D-Objekts auf den physische Modell war die nächste Herausforderung. Da die beiden Grössenmasse in keinem Verhältnis zueinander stehen, mussten wir schlussendlich solange an den Grössen drehen, bis wir ein passendes Ergebnis erhielten.
+Die Skalierung und Positionierung des 3D-Objekts auf den physische Modell war die nächste Herausforderung. Da die beiden Grössenmasse in keinem Verhältnis zueinander stehen, mussten wir schlussendlich solange an den Grössen drehen, bis wir ein zufriedenstellendes Ergebnis erhielten.
 
 ### Zu viele Polygone
+
+Ein weiteres Problem waren die vielen Polygone. Am Anfang standen wir bei gesamthaft 142'000 Polygonen in der Applikation. Das haben wir auch in der Performance gemerkt. Die Applikation war entsprechend schwerfällig und der Cursor hinkte hinterher. Das lag vor allem an unserem Bergmodell, das wir mit der App in ein 3D-Modell umgewandelt hatten. Dank Instant Meshes und durch entfernen des Lichts in der Szene konnten wir diese Zahl erheblich verringern.
 
 ## Learnings
 
 ## Potentielle Weiterentwicklung
+Einige Punkte, mit denen diese Applikation weiterentwickelt werden könnte.
+
+- Einbinden von Wetterdaten mit der entsprechenden Visualisierung
+- Serialisierung des Objektimports, mit dem Ziel, beliebige Berge in die Applikation integrieren zu können. Das erfordert unter anderem eine Umrechnung von GPS-Daten in Unity-Koordinaten
 
 [screenshot]: https://lh6.googleusercontent.com/TvmsFDZDUK4iZalC-uNTLM5whjiJdJCUjdxHIoJW7dt4gm1BNayukDJ2S1JG3YfnvFb32Uvccf93qK9E1yRI=w1920-h942-rw "Screenshot der Application"
