@@ -83,4 +83,4 @@ Einige Punkte, mit denen diese Applikation weiterentwickelt werden könnte.
 - Einbinden von Wetterdaten mit der entsprechenden Visualisierung
 - Serialisierung des Objektimports, mit dem Ziel, beliebige Berge in die Applikation integrieren zu können. Das erfordert unter anderem eine Umrechnung von GPS-Daten in Unity-Koordinaten
 
-[logo]: https://github.com/pscllbssr/Holographic-Grisons/raw/master/docs/mmp_ma_hg_trigger.jpg "Holographic Grisons"
+[logo]: Holographic-Grisons/docs/mmp_ma_hg_trigger.jpg "Holographic Grisons"
