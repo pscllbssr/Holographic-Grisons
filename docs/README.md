@@ -54,11 +54,13 @@ Das in Unity erstellte Projekt lässt sich in Microsoft Visual Studio importiere
 
 ### Entwicklungsumgebung für Hololens
 
-Applikationen für die Hololens haben grundsätzlich eine grosse Hürde: Das Gerät ist teuer.
+Applikationen für die Hololens haben grundsätzlich eine grosse Hürde: Das Gerät ist teuer in der Anschaffung. Das macht es schon mal schwieriger zu entwickeln als andere AR/VR/MR-Apps für beispielsweise Smartphones. Wir hatten zum Glück eine Hololens zur Verfügung, mussten uns aber logistisch organisieren.
 
-Erfordert eine Hololens, Anforderungen an Entwicklungs-Maschine
+Zudem sind die Anforderungen an die Entwicklungs-Hardware zum Teil sehr strikt. Der Hololens-Emulator läuft beispielsweise nur mit Hyper-V, was Windwos 10 Professional voraussetzt.
 
 ### Umgang mit Hololens (Eigenschaften)/Debugging
+
+
 
 ### richtige/statische Positionierung
 
