@@ -18,11 +18,14 @@ Sämtlicher Code für dieses Projekt ist auf Github gehostet.
 
 Um mehr über die Bedürfnisse der Benutzer herauszufinden, haben wir auf Papier Prototypen zurückgegriffen und diese spielerisch mit Probanden durchgetestet. Daraus haben wir folgende Erkenntnisse gezogen:
 
-* pi
+* pi 
 
 * pa 
 
 * pu
+
+## Wireframes
+Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. Die Wireframes befinden sich unter  [Wireframes in Adobe Cloude](www.www.www)
 
 ## Verwendete Technologien
 
@@ -73,6 +76,8 @@ Die Skalierung und Positionierung des 3D-Objekts auf den physische Modell war di
 Ein weiteres Problem waren die vielen Polygone. Am Anfang standen wir bei gesamthaft 142'000 Polygonen in der Applikation. Das haben wir auch in der Performance gemerkt. Die Applikation war entsprechend schwerfällig und der Cursor hinkte hinterher. Das lag vor allem an unserem Bergmodell, das wir mit der App in ein 3D-Modell umgewandelt hatten. Dank Instant Meshes und durch entfernen des Lichts in der Szene konnten wir diese Zahl erheblich verringern.
 
 ## Learnings
+
+Hololens schwierig
 
 ## Potentielle Weiterentwicklung
 Einige Punkte, mit denen diese Applikation weiterentwickelt werden könnte.
