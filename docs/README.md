@@ -75,7 +75,9 @@ Ein weiteres Problem waren die vielen Polygone. Am Anfang standen wir bei gesamt
 
 ## Learnings
 
-Hololens schwierig
+Hololens schwierig, Zukunft? Tutorials?
+Interface schwierig wegen Farben
+Keine UserExperience (Tap, etc.)
 
 ## Potentielle Weiterentwicklung
 Einige Punkte, mit denen diese Applikation weiterentwickelt werden könnte.
