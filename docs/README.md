@@ -4,6 +4,8 @@ Die Holographic Grisons App projiziert virtuelle Informationen auf ein physisch 
 
 So bekommt der interessierte Benutzer beispielsweise ein Gefühl für die Beschaffenheit der Wanderwege und die Möglichkeiten vor Ort. Diese Informationen können an die eigene E-Mail Adresse versendet werden. 
 
+https://github.com/pscllbssr/Holographic-Grisons/raw/master/docs/mmp_ma_hg_trigger.jpg
+
 ## Zugangsdaten
 
 Sämtlicher Code für dieses Projekt ist auf Github gehostet.
@@ -81,4 +83,4 @@ Einige Punkte, mit denen diese Applikation weiterentwickelt werden könnte.
 - Einbinden von Wetterdaten mit der entsprechenden Visualisierung
 - Serialisierung des Objektimports, mit dem Ziel, beliebige Berge in die Applikation integrieren zu können. Das erfordert unter anderem eine Umrechnung von GPS-Daten in Unity-Koordinaten
 
-[screenshot]: https://lh6.googleusercontent.com/TvmsFDZDUK4iZalC-uNTLM5whjiJdJCUjdxHIoJW7dt4gm1BNayukDJ2S1JG3YfnvFb32Uvccf93qK9E1yRI=w1920-h942-rw "Screenshot der Application"
+[logo]: https://github.com/pscllbssr/Holographic-Grisons/raw/master/docs/mmp_ma_hg_trigger.jpg "Holographic Grisons"
