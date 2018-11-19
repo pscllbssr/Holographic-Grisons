@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: b1654abb3d9d17b469f425982c1c8c14
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "Alph\xFCtte_Oberlauenen"
+    100002: "Bergstation_Fr\xE4km\xFCntegg"
+    100004: "Bergstation_Fr\xE4km\xFCntegg_2"
+    100006: Chriesiloch__A
+    100008: Chriesiloch_A
+    100010: CINEMA_4D_Editor
+    100012: "Fr\xE4kigaudi"
+    100014: Klimsensattel
+    100016: Klimsensattel_2
+    100018: Mittel_Anspr__Pilatus_MIX
+    100020: Mittel_Anspr_Chriesloch_MIX
+    100022: Mittel_Anspr_Talstation_MIX
+    100024: //RootNode
+    100026: Pilatus_Kulm__A
+    100028: Pilatus_Kulm_A
+    100030: Piluland
+    100032: POIS__Wanderweg__anspruchsvoll
+    100034: POIS__Wanderweg__mittel
+    100036: "POIS__Wanderweg__m\xE4ssig"
+    100038: Restaurant_Alpgschwend
+    100040: Riggiegg
+    100042: "Schl\xF6ssli_Schauensee"
+    100044: Talstation
+    100046: Tierstein
+    100048: Wildbach_Heitertannliweg
+    400000: "Alph\xFCtte_Oberlauenen"
+    400002: "Bergstation_Fr\xE4km\xFCntegg"
+    400004: "Bergstation_Fr\xE4km\xFCntegg_2"
+    400006: Chriesiloch__A
+    400008: Chriesiloch_A
+    400010: CINEMA_4D_Editor
+    400012: "Fr\xE4kigaudi"
+    400014: Klimsensattel
+    400016: Klimsensattel_2
+    400018: Mittel_Anspr__Pilatus_MIX
+    400020: Mittel_Anspr_Chriesloch_MIX
+    400022: Mittel_Anspr_Talstation_MIX
+    400024: //RootNode
+    400026: Pilatus_Kulm__A
+    400028: Pilatus_Kulm_A
+    400030: Piluland
+    400032: POIS__Wanderweg__anspruchsvoll
+    400034: POIS__Wanderweg__mittel
+    400036: "POIS__Wanderweg__m\xE4ssig"
+    400038: Restaurant_Alpgschwend
+    400040: Riggiegg
+    400042: "Schl\xF6ssli_Schauensee"
+    400044: Talstation
+    400046: Tierstein
+    400048: Wildbach_Heitertannliweg
+    2000000: CINEMA_4D_Editor
+    2100000: No Name
+    2300000: "Alph\xFCtte_Oberlauenen"
+    2300002: "Bergstation_Fr\xE4km\xFCntegg"
+    2300004: "Bergstation_Fr\xE4km\xFCntegg_2"
+    2300006: Chriesiloch__A
+    2300008: Chriesiloch_A
+    2300010: "Fr\xE4kigaudi"
+    2300012: Klimsensattel
+    2300014: Klimsensattel_2
+    2300016: Mittel_Anspr__Pilatus_MIX
+    2300018: Mittel_Anspr_Chriesloch_MIX
+    2300020: Mittel_Anspr_Talstation_MIX
+    2300022: Pilatus_Kulm__A
+    2300024: Pilatus_Kulm_A
+    2300026: Piluland
+    2300028: Restaurant_Alpgschwend
+    2300030: Riggiegg
+    2300032: "Schl\xF6ssli_Schauensee"
+    2300034: Talstation
+    2300036: Tierstein
+    2300038: Wildbach_Heitertannliweg
+    3300000: "Alph\xFCtte_Oberlauenen"
+    3300002: "Bergstation_Fr\xE4km\xFCntegg"
+    3300004: "Bergstation_Fr\xE4km\xFCntegg_2"
+    3300006: Chriesiloch__A
+    3300008: Chriesiloch_A
+    3300010: "Fr\xE4kigaudi"
+    3300012: Klimsensattel
+    3300014: Klimsensattel_2
+    3300016: Mittel_Anspr__Pilatus_MIX
+    3300018: Mittel_Anspr_Chriesloch_MIX
+    3300020: Mittel_Anspr_Talstation_MIX
+    3300022: Pilatus_Kulm__A
+    3300024: Pilatus_Kulm_A
+    3300026: Piluland
+    3300028: Restaurant_Alpgschwend
+    3300030: Riggiegg
+    3300032: "Schl\xF6ssli_Schauensee"
+    3300034: Talstation
+    3300036: Tierstein
+    3300038: Wildbach_Heitertannliweg
+    4300000: Mittel_Anspr__Pilatus_MIX
+    4300002: Mittel_Anspr_Chriesloch_MIX
+    4300004: Mittel_Anspr_Talstation_MIX
+    4300006: Chriesiloch__A
+    4300008: Pilatus_Kulm__A
+    4300010: Riggiegg
+    4300012: Klimsensattel_2
+    4300014: Wildbach_Heitertannliweg
+    4300016: "Alph\xFCtte_Oberlauenen"
+    4300018: "Bergstation_Fr\xE4km\xFCntegg"
+    4300020: "Fr\xE4kigaudi"
+    4300022: Pilatus_Kulm_A
+    4300024: Chriesiloch_A
+    4300026: Klimsensattel
+    4300028: Tierstein
+    4300030: Restaurant_Alpgschwend
+    4300032: "Bergstation_Fr\xE4km\xFCntegg_2"
+    4300034: Piluland
+    4300036: Talstation
+    4300038: "Schl\xF6ssli_Schauensee"
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

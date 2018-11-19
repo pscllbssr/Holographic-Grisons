@@ -44,11 +44,18 @@ public class GazeGestureManager : MonoBehaviour
         {
             // If the raycast hit a hologram, use that as the focused object.
             FocusedObject = hitInfo.collider.gameObject;
+            FocusedObject.GetComponent<Renderer>().material.color = new Color(1f, 0f, 1f);
+            FocusedObject.SendMessageUpwards("OnFocus", SendMessageOptions.DontRequireReceiver);
+
         }
         else
         {
             // If the raycast did not hit a hologram, clear the focused object.
             FocusedObject = null;
+            FocusedObject.GetComponent<Renderer>().material.color = new Color(1f, 1f, 1f);
+            FocusedObject.SendMessageUpwards("OnFocusLeave", SendMessageOptions.DontRequireReceiver);
+
+
         }
 
         // If the focused object changed this frame,
