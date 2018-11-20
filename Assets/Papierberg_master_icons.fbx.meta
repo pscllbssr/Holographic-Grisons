@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: d0706754fe1e01148a758999c0fe9088
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "Alph\xFCtte_Oberlauenen_icon_hotel"
+    100002: Anspruchsvoll_new_new
+    100004: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel"
+    100006: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel_2"
+    100008: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant"
+    100010: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant_2"
+    100012: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark"
+    100014: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark_2"
+    100016: Chriesiloch_icon_hoehle
+    100018: Chriesiloch_icon_hoehle_2
+    100020: CINEMA_4D_Editor
+    100022: Grumselpik_icon_carabiner
+    100024: Icons
+    100026: Icons_Anpsr_
+    100028: Icons_Mittel
+    100030: "Icons_M\xE4ssig"
+    100032: Klimsensattel_a
+    100034: Klimsensattel_Kappelle_icon_ruine
+    100036: Klimsensattel_m
+    100038: Mittel_Anspr__Kloster
+    100040: Mittel_new_new
+    100042: //RootNode
+    100044: Pilatus_Kulm_icon_hotel
+    100046: Pilatus_Kulm_icon_hotel_2
+    100048: "Restaurant_Alpgschw\xE4nd_icon_restaurant"
+    100050: Restaurant_PILULand___Mittelstation_Krienseregg_icon_restaurant
+    100052: "Rodelbahn_Fr\xE4kigaudi_icon_rodeln"
+    100054: "Schl\xF6ssli_Schauensee_icon_ruine"
+    100056: Talstation_Kriens_icon_gondel
+    100058: Tierstein_icon_kamera
+    100060: Wildbach__Heitertannliweg_icon_kamera
+    400000: "Alph\xFCtte_Oberlauenen_icon_hotel"
+    400002: Anspruchsvoll_new_new
+    400004: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel"
+    400006: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel_2"
+    400008: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant"
+    400010: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant_2"
+    400012: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark"
+    400014: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark_2"
+    400016: Chriesiloch_icon_hoehle
+    400018: Chriesiloch_icon_hoehle_2
+    400020: CINEMA_4D_Editor
+    400022: Grumselpik_icon_carabiner
+    400024: Icons
+    400026: Icons_Anpsr_
+    400028: Icons_Mittel
+    400030: "Icons_M\xE4ssig"
+    400032: Klimsensattel_a
+    400034: Klimsensattel_Kappelle_icon_ruine
+    400036: Klimsensattel_m
+    400038: Mittel_Anspr__Kloster
+    400040: Mittel_new_new
+    400042: //RootNode
+    400044: Pilatus_Kulm_icon_hotel
+    400046: Pilatus_Kulm_icon_hotel_2
+    400048: "Restaurant_Alpgschw\xE4nd_icon_restaurant"
+    400050: Restaurant_PILULand___Mittelstation_Krienseregg_icon_restaurant
+    400052: "Rodelbahn_Fr\xE4kigaudi_icon_rodeln"
+    400054: "Schl\xF6ssli_Schauensee_icon_ruine"
+    400056: Talstation_Kriens_icon_gondel
+    400058: Tierstein_icon_kamera
+    400060: Wildbach__Heitertannliweg_icon_kamera
+    2000000: CINEMA_4D_Editor
+    2100000: No Name
+    2300000: "Alph\xFCtte_Oberlauenen_icon_hotel"
+    2300002: Anspruchsvoll_new_new
+    2300004: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel"
+    2300006: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel_2"
+    2300008: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant"
+    2300010: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant_2"
+    2300012: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark"
+    2300014: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark_2"
+    2300016: Chriesiloch_icon_hoehle
+    2300018: Chriesiloch_icon_hoehle_2
+    2300020: Grumselpik_icon_carabiner
+    2300022: Klimsensattel_a
+    2300024: Klimsensattel_Kappelle_icon_ruine
+    2300026: Klimsensattel_m
+    2300028: Mittel_Anspr__Kloster
+    2300030: Mittel_new_new
+    2300032: Pilatus_Kulm_icon_hotel
+    2300034: Pilatus_Kulm_icon_hotel_2
+    2300036: "Restaurant_Alpgschw\xE4nd_icon_restaurant"
+    2300038: Restaurant_PILULand___Mittelstation_Krienseregg_icon_restaurant
+    2300040: "Rodelbahn_Fr\xE4kigaudi_icon_rodeln"
+    2300042: "Schl\xF6ssli_Schauensee_icon_ruine"
+    2300044: Talstation_Kriens_icon_gondel
+    2300046: Tierstein_icon_kamera
+    2300048: Wildbach__Heitertannliweg_icon_kamera
+    3300000: "Alph\xFCtte_Oberlauenen_icon_hotel"
+    3300002: Anspruchsvoll_new_new
+    3300004: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel"
+    3300006: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel_2"
+    3300008: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant"
+    3300010: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant_2"
+    3300012: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark"
+    3300014: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark_2"
+    3300016: Chriesiloch_icon_hoehle
+    3300018: Chriesiloch_icon_hoehle_2
+    3300020: Grumselpik_icon_carabiner
+    3300022: Klimsensattel_a
+    3300024: Klimsensattel_Kappelle_icon_ruine
+    3300026: Klimsensattel_m
+    3300028: Mittel_Anspr__Kloster
+    3300030: Mittel_new_new
+    3300032: Pilatus_Kulm_icon_hotel
+    3300034: Pilatus_Kulm_icon_hotel_2
+    3300036: "Restaurant_Alpgschw\xE4nd_icon_restaurant"
+    3300038: Restaurant_PILULand___Mittelstation_Krienseregg_icon_restaurant
+    3300040: "Rodelbahn_Fr\xE4kigaudi_icon_rodeln"
+    3300042: "Schl\xF6ssli_Schauensee_icon_ruine"
+    3300044: Talstation_Kriens_icon_gondel
+    3300046: Tierstein_icon_kamera
+    3300048: Wildbach__Heitertannliweg_icon_kamera
+    4300000: Mittel_Anspr__Kloster
+    4300002: Klimsensattel_a
+    4300004: Klimsensattel_m
+    4300006: Mittel_new_new
+    4300008: Anspruchsvoll_new_new
+    4300010: Pilatus_Kulm_icon_hotel
+    4300012: Chriesiloch_icon_hoehle
+    4300014: Grumselpik_icon_carabiner
+    4300016: "Rodelbahn_Fr\xE4kigaudi_icon_rodeln"
+    4300018: "Alph\xFCtte_Oberlauenen_icon_hotel"
+    4300020: Wildbach__Heitertannliweg_icon_kamera
+    4300022: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark"
+    4300024: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant"
+    4300026: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel"
+    4300028: Pilatus_Kulm_icon_hotel_2
+    4300030: Chriesiloch_icon_hoehle_2
+    4300032: Tierstein_icon_kamera
+    4300034: Klimsensattel_Kappelle_icon_ruine
+    4300036: "Restaurant_Alpgschw\xE4nd_icon_restaurant"
+    4300038: "Bergstation_Fr\xE4km\xFCntegg_icon_seilpark_2"
+    4300040: "Bergstation_Fr\xE4km\xFCntegg_icon_restaurant_2"
+    4300042: "Bergstation_Fr\xE4km\xFCntegg_icon_gondel_2"
+    4300044: Restaurant_PILULand___Mittelstation_Krienseregg_icon_restaurant
+    4300046: "Schl\xF6ssli_Schauensee_icon_ruine"
+    4300048: Talstation_Kriens_icon_gondel
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
