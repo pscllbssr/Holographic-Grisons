@@ -33,7 +33,7 @@ Unser Bergmodell haben wir von Hand aus Papier und Verpackungsmaterial erstellt.
 
 ### 3D Scanner
 
-Um unsere virtuellen,interaktiven Elemente korrekt zu platzieren, benötigten wir ein virtuelles Abbild von unserem Bergmodell. Dazu verwendeten wir die App «bliblablu». Diese App erlaubt es, anhand von einem Video eine 3D-Objekt zu erstellen.
+Um unsere virtuellen,interaktiven Elemente korrekt zu platzieren, benötigten wir ein virtuelles Abbild von unserem Bergmodell. Dazu verwendeten wir die App «3DF Zephyr». Diese App erlaubt es, anhand von einem Video eine 3D-Objekt zu erstellen.
 
 ### Instant Mesh
 
