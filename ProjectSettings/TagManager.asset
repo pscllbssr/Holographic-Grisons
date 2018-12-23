@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Track
+  - POI
+  - window_close
+  - panels
   layers:
   - Default
   - TransparentFX
