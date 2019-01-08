@@ -1,10 +1,10 @@
 # Holographic Grisons
 
-Die Holographic Grisons App projiziert virtuelle Informationen auf ein physisch vorhandenes Bergmodell. Die Applikation läuft auf der Microsoft Hololens. Diese Projekt wurde im Rahmen des Major Media Applications an der HTW Chur und der BFH erstellt.
+Die Holographic Grisons App projiziert virtuelle Informationen auf ein physisch vorhandenes Bergmodell. Die Applikation läuft auf der Microsoft Hololens. Dieses Projekt wurde im Rahmen des Major Media Applications an der HTW Chur und der BFH erstellt.
 
-So bekommt der interessierte Benutzer beispielsweise ein Gefühl für die Beschaffenheit der Wanderwege und die Möglichkeiten vor Ort. Diese Informationen können an die eigene E-Mail Adresse versendet werden. 
+So bekommt der interessierte Benutzer beispielsweise ein Gefühl für die Beschaffenheit der Wanderwege und die Möglichkeiten vor Ort. Folgender Screencast zeigt die Ansicht der App durch die Microsoft Hololens:
 
-![HoloGrisons](https://github.com/pscllbssr/Holographic-Grisons/blob/master/docs/mmp_ma_hg_trigger.jpg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1v2P3WmzNYc/0.jpg)](https://www.youtube.com/watch?v=1v2P3WmzNYc)
 
 ## Zugangsdaten
 
@@ -23,7 +23,7 @@ Um mehr über die Bedürfnisse der Benutzer herauszufinden, haben wir auf Papier
 * pu
 
 ## Wireframes
-Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. Die Wireframes befinden sich unter  [Wireframes in Adobe Cloude](www.www.www)
+Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. Die Wireframes befinden sich unter [Wireframes in Adobe Cloude](www.www.www)
 
 ## Verwendete Technologien
 
@@ -75,18 +75,18 @@ Ein weiteres Problem waren die vielen Polygone. Am Anfang standen wir bei gesamt
 
 ## Code 
 
-Viel einstellen, wenig selber coden
+Im Code haben wir bestehenden Szene um Interaktionsmöglichkeiten erweitert. Wir haben den Code so modular wie möglich geschrieben, sodass er auf neu importierte Elemente einfach angewendet werden kann. In einem zentralen Skript haben wir Kollisionen abgefangen und entsprechende Events an die restliche Game Objects gesendet. Diese wurden wiederum von den betroffenen abgefangen und je nach Typ des Objekts (Weg, Icon, Panel) entsprechend behandelt.
 
 ## Learnings
 
-Hololens schwierig, Zukunft? Tutorials?
-Interface schwierig wegen Farben
-Keine UserExperience (Tap, etc.)
+Für weitere Projekte müssten wir sicher nach einer effizienteren Entwicklungsumgebung suchen. Die langen Wartezeiten haben uns ziemlich ausgebremst. Ebenfalls war das Sichtfeld der Hololens enttäuschend klein. Wie im Video oben ersichtlich, muss man teilweise sehr weit weg vom Modell gehen um das gesamte im Blickfeld zu haben. Wir haben auch gemerkt, dass feine Farbunterschiede, wie wir sie im Web bespielsweise für verschiedene Stati verwenden (hover/clicked/etc.), auf der Hololens nicht oder nur schlecht funktionieren. Es sind grosse Kontraste nötig um Unterschiede zu erkennen. 
 
 ## Potentielle Weiterentwicklung
 Einige Punkte, mit denen diese Applikation weiterentwickelt werden könnte.
 
+- Das Panel mit Funktonen und Hintergrundinfos ausstatten
 - Einbinden von Wetterdaten mit der entsprechenden Visualisierung
 - Serialisierung des Objektimports, mit dem Ziel, beliebige Berge in die Applikation integrieren zu können. Das erfordert unter anderem eine Umrechnung von GPS-Daten in Unity-Koordinaten
+- Portierung auf andere Geräte
 
 [logo]: Holographic-Grisons/docs/mmp_ma_hg_trigger.jpg "Holographic Grisons"
