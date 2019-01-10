@@ -14,13 +14,15 @@ Sämtlicher Code für dieses Projekt ist auf Github gehostet.
 
 ## Konzeption & Testing
 
-Um mehr über die Bedürfnisse der Benutzer herauszufinden, haben wir auf Papier Prototypen zurückgegriffen und diese spielerisch mit Probanden durchgetestet. Daraus haben wir folgende Erkenntnisse gezogen:
+Um mehr über die Bedürfnisse der Benutzer herauszufinden, haben wir auf Papier-Prototypen zurückgegriffen und diese spielerisch mit Probanden durchgetestet. Daraus haben wir folgende Erkenntnisse gezogen:
 
-* pi 
+* AR-Brillen wie die Hololens sind noch nicht weit verbreitet und somit ist deren Anwendung für viele noch Neuland. Dies machte sich bereits bei den Tests mit den Papier-Prototypen bemerkbar. Die meisten Testpersonen blieben an einem Ort stehen und betrachteten die Szene, obschon die Hololens es ermöglichen würde, die Szene aus allen Blickwinkeln zu erkunden. Deshalb entschieden wir uns, die Wanderwege auch durch den Berg hindurch anzuzeigen, somit wird auf den ersten Blick ersichtlich, dass man sich um den Berg herum bewegen kann. 
 
-* pa 
+* Zu viele Anzeigen auf einmal überforderten die Testpersonen. Es ist sinnvoll, möglichst wenige Informationen auf einmal anzuzeigen. Denn bereits die Art der Präsentation im Raum gibt dem Benutzer gewisse Informationen, welche nicht auch noch durch zuviele Anzeigen überstrapaziert werden sollten.
 
-* pu
+* Die Testpersonen hatten bereits viel Spass beim reinen Betrachten der Szene. Die Interaktion (nicht zuletzt wegen der ungewohnten Steuerung) wurde nur spärlich benutzt. Vielmehr wurde der Berg von allen Seiten erkundet, was ja bereits auch ohne eingeblendete Informationen einiges über die Begebenheiten des Wanderweges aussagt. 
+
+* Schlichte Icons sind die besten Art, zusätzliche Informationen zum Wanderweg zu geben. Die Kombination aus Icons und deren Platzierung auf dem Berg geben dem Benutzer bereits sehr viele Informationen. 
 
 ## Wireframes
 Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. Die Wireframes befinden sich unter [Wireframes in Adobe Cloude](www.www.www)
@@ -33,7 +35,7 @@ Unser Bergmodell haben wir von Hand aus Papier und Verpackungsmaterial erstellt.
 
 ### 3D Scanner
 
-Um unsere virtuellen,interaktiven Elemente korrekt zu platzieren, benötigten wir ein virtuelles Abbild von unserem Bergmodell. Dazu verwendeten wir die App «3DF Zephyr». Diese App erlaubt es, anhand von einem Video eine 3D-Objekt zu erstellen.
+Um unsere virtuellen, interaktiven Elemente korrekt zu platzieren, benötigten wir ein virtuelles Abbild von unserem Bergmodell. Dazu verwendeten wir die App «3DF Zephyr». Diese App erlaubt es, anhand eines Videos ein 3D-Objekt zu erstellen.
 
 ### Instant Mesh
 
@@ -43,9 +45,9 @@ Das erstellte Bergmodell hatte viel zu viele Polygone. Deshalb benutzten wir [In
 
 In Cinema 4D haben wir die einzelnen 3D-Objekte für unsere Applikation modelliert.
 
-### Unity
+### Unity/C#
 
-In der Entwicklungsumgebung Unity setzten wir die einzelnen Elemente zu einem ganzen, einer «Szene» zusammen. Die 3D-Objekte lassen sich importieren und im Raum platzieren. Die einzelnen Objekte werden mit Scripts versehen, um ihnen Funktionen und Interaktivität zu verleihen. Die gesamte Szene exportieren wir jeweils als Visual Studio Projekt.
+In der Entwicklungsumgebung Unity setzten wir die einzelnen Elemente zu einem ganzen, einer «Szene» zusammen. Die 3D-Objekte lassen sich importieren und im Raum platzieren. Die einzelnen Objekte werden mit Scripts (C#) versehen, um ihnen Funktionen und Interaktivität zu verleihen. Die gesamte Szene exportieren wir jeweils als Visual Studio Projekt.
 
 ### Microsoft Visual Studio
 
@@ -60,7 +62,7 @@ Applikationen für die Hololens haben grundsätzlich eine grosse Hürde: Das Ger
 
 Zudem sind die Anforderungen an die Entwicklungs-Hardware zum Teil sehr strikt. Der Hololens-Emulator läuft beispielsweise nur mit Hyper-V, was Windwos 10 Professional voraussetzt.
 
-Das Übertragen der Applikation von Unity über Visual Studio auf die Hololens nimmt jeweils mehrere Minuten in Anspruch, was den Entwicklungsprozess enorm ausbremst. Das austesten von kleinen Änderungen dauert so unnötig lange. Zudem kommt es immer mal wieder vor, dass die Übertragung auf die Hololens mit einer kryptischen Fehlermeldung abbricht. Zum Teil kann man die Übertragung noch einmal starten. Teilweise mussten wir aber auch einige Schritte zurück gehen damit es wieder funktionierte.
+Das Übertragen der Applikation von Unity über Visual Studio auf die Hololens nimmt jeweils mehrere Minuten in Anspruch, was den Entwicklungsprozess enorm ausbremst. Das Austesten von kleinen Änderungen dauert so unnötig lange. Zudem kommt es immer mal wieder vor, dass die Übertragung auf die Hololens mit einer kryptischen Fehlermeldung abbricht. Zum Teil reicht es aus, die Übertragung einfach noch einmal zu starten. Teilweise mussten wir aber auch einige Schritte zurück gehen damit es wieder funktionierte.
 
 ### Marker & Positionierung
 
@@ -71,7 +73,7 @@ Die Skalierung und Positionierung des 3D-Objekts auf den physische Modell war di
 
 ### Zu viele Polygone
 
-Ein weiteres Problem waren die vielen Polygone. Am Anfang standen wir bei gesamthaft 142'000 Polygonen in der Applikation. Das haben wir auch in der Performance gemerkt. Die Applikation war entsprechend schwerfällig und der Cursor hinkte hinterher. Das lag vor allem an unserem Bergmodell, das wir mit der App in ein 3D-Modell umgewandelt hatten. Dank Instant Meshes und durch entfernen des Lichts in der Szene konnten wir diese Zahl erheblich verringern.
+Ein weiteres Problem waren die vielen Polygone. Am Anfang standen wir bei gesamthaft 142'000 Polygonen in der Applikation. Dies machte sich in der Performance bemerkbar. Die Applikation war entsprechend schwerfällig und der Cursor hinkte hinterher. Das lag vor allem an unserem Bergmodell, das wir dieses mit der App in ein 3D-Model umgewandelt hatten. Dank Instant Meshes und durch Entfernen des Lichts in der Szene konnten wir diese Zahl erheblich verringern.
 
 ## Code 
 
@@ -79,7 +81,7 @@ Im Code haben wir bestehenden Szene um Interaktionsmöglichkeiten erweitert. Wir
 
 ## Learnings
 
-Für weitere Projekte müssten wir sicher nach einer effizienteren Entwicklungsumgebung suchen. Die langen Wartezeiten haben uns ziemlich ausgebremst. Ebenfalls war das Sichtfeld der Hololens enttäuschend klein. Wie im Video oben ersichtlich, muss man teilweise sehr weit weg vom Modell gehen um das gesamte im Blickfeld zu haben. Wir haben auch gemerkt, dass feine Farbunterschiede, wie wir sie im Web bespielsweise für verschiedene Stati verwenden (hover/clicked/etc.), auf der Hololens nicht oder nur schlecht funktionieren. Es sind grosse Kontraste nötig um Unterschiede zu erkennen. 
+Für weitere Projekte müssten wir sicher nach einer effizienteren Entwicklungsumgebung suchen. Die langen Wartezeiten haben uns ziemlich ausgebremst. Ebenfalls war das eingeschränkte Sichtfeld/Projektionsfeld der Hololens enttäuschend klein. Wie im Video oben ersichtlich, muss man sich teilweise sehr weit weg vom Modell positionieren, um die gesamte Szene im Blickfeld zu haben. Wir haben auch erkannt, dass feine Farbunterschiede, wie wir sie im Web bespielsweise für verschiedene Stati verwenden (hover/clicked/etc.), auf der Hololens nicht oder nur schlecht funktionieren. Es sind grosse Kontraste nötig um Unterschiede zu erkennen. 
 
 ## Potentielle Weiterentwicklung
 Einige Punkte, mit denen diese Applikation weiterentwickelt werden könnte.
