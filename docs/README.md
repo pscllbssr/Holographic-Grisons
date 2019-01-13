@@ -30,6 +30,11 @@ Um mehr über die Bedürfnisse der Benutzer herauszufinden, haben wir auf Papier
 ## Wireframes
 Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. Die Wireframes befinden sich unter [Wireframes in Adobe Cloude](https://xd.adobe.com/view/3bf63f25-fb30-4e24-566e-ac24fb3eb550-4dc7/)
 
+## Recherche
+Um ein möglichst realistisches Szenario zu schaffen, wurden im Vorfeld Informationen über eine real existierende Wanderregion eingeholt. Diese Informationen dienten schliesslich als Vorlage und Rahmen für die Inhalte unseres Prototyps. 
+
+[Foto](https://drive.google.com/file/d/1RpWrvE4NMsQj8mulSpBiisQPHt5R6TFF/view)
+
 ## Verwendete Technologien
 
 ### Bergmodell
