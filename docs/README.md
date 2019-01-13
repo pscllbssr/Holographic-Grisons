@@ -24,6 +24,8 @@ Um mehr über die Bedürfnisse der Benutzer herauszufinden, haben wir auf Papier
 
 * Schlichte Icons sind die besten Art, zusätzliche Informationen zum Wanderweg zu geben. Die Kombination aus Icons und deren Platzierung auf dem Berg geben dem Benutzer bereits sehr viele Informationen. 
 
+[Foto](https://drive.google.com/file/d/1RwajfRac7aVyCqmDlome30rL4C5gsaFi/view) [Foto](https://drive.google.com/file/d/1jRIPvun70_K187fLhVVRxX7rF8VVPZHW/view) [Foto]() [Foto]() [Foto]()
+
 ## Wireframes
 Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. Die Wireframes befinden sich unter [Wireframes in Adobe Cloude](https://xd.adobe.com/view/3bf63f25-fb30-4e24-566e-ac24fb3eb550-4dc7/)
 
