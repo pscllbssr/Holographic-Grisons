@@ -57,7 +57,7 @@ Das erstellte Bergmodell hatte viel zu viele Polygone. Deshalb benutzten wir [In
 
 In Cinema 4D haben wir die einzelnen 3D-Objekte für unsere Applikation modelliert. Als Grundlage für diese Modelle dienten Pfade der Objekte, die im Adobe Illustrator zuvor aufbereitet wurden.
 
-[Foto]() 
+[Foto](https://drive.google.com/drive/folders/1ws_e80CpX_rt4oQJ5QC1RHIFTL5B7G6v) 
 [Foto]() 
 [Foto]() 
 [Foto]() 
