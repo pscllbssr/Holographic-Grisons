@@ -37,6 +37,8 @@ Unser Bergmodell haben wir von Hand aus Papier und Verpackungsmaterial erstellt.
 
 Um unsere virtuellen, interaktiven Elemente korrekt zu platzieren, benötigten wir ein virtuelles Abbild von unserem Bergmodell. Dazu verwendeten wir die App «3DF Zephyr». Diese App erlaubt es, anhand eines Videos ein 3D-Objekt zu erstellen.
 
+[Foto](https://drive.google.com/file/d/1ZMz19D1GE1GGSOZwtw3tuiHxdXSqhjAF/view)
+
 ### Instant Mesh
 
 Das erstellte Bergmodell hatte viel zu viele Polygone. Deshalb benutzten wir [Instant Meshes](https://github.com/wjakob/instant-meshes), um die Polygone zu reduzieren.
