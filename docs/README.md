@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1-hJP63kwhUkl35cwqAgD2NS6ZaekUXqO/view)]
+[!(https://drive.google.com/file/d/1-hJP63kwhUkl35cwqAgD2NS6ZaekUXqO/view)]
 
 # Holographic Grisons
 
