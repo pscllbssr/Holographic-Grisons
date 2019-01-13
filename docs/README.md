@@ -36,10 +36,7 @@ Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. 
 
 Unser Bergmodell haben wir von Hand aus Papier und Verpackungsmaterial erstellt. Es wurde zum Prototyping, Testing und zur Entwicklung verwendet.
 
-[Foto](https://drive.google.com/file/d/1gk8ku9ihvFKVEd1VlbBjJFyc6t63caFZ/view) 
-[Foto](https://drive.google.com/file/d/1f73N6bOYyTFKRAxbSq6Q0JInQJgthx0_/view)
-[Foto](https://drive.google.com/file/d/1oFDfF3l8meDF7TQad_SzbWnvkXm0YvZ4/view) 
-[Foto](https://drive.google.com/file/d/1Vklv3noWHzfA95X9vSyvC1KV4c9fVX9z/view)
+[Fotos](https://drive.google.com/drive/folders/1mScFqKRmoj0vNjyQnWDr-0oTH2uPbYxB)
 
 ### 3D Scanner
 
