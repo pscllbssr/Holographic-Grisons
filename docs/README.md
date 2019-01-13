@@ -1,3 +1,5 @@
+![](images/Holo_Keyvisual_1.jpg)
+
 # Holographic Grisons
 
 Die Holographic Grisons App projiziert virtuelle Informationen auf ein physisch vorhandenes Bergmodell. Die Applikation läuft auf der Microsoft Hololens. Dieses Projekt wurde im Rahmen des Major Media Applications an der HTW Chur und der BFH erstellt.
