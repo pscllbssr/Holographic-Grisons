@@ -33,7 +33,7 @@ Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. 
 ## Recherche
 Um ein möglichst realistisches Szenario zu schaffen, wurden im Vorfeld Informationen über eine real existierende Wanderregion eingeholt. Diese Informationen dienten schliesslich als Vorlage und Rahmen für die Inhalte unseres Prototyps. 
 
-[Foto](https://drive.google.com/file/d/1RpWrvE4NMsQj8mulSpBiisQPHt5R6TFF/view)
+[Recherche-Tabelle](https://docs.google.com/spreadsheets/d/1amNXq4Nq9qUTcI31vJdjMChTECSkBWdriYkN3bda-sU/edit?usp=sharing)
 
 ## Verwendete Technologien
 
@@ -71,7 +71,7 @@ In der Entwicklungsumgebung Unity setzten wir die einzelnen Elemente zu einem ga
 
 Das in Unity erstellte Projekt lässt sich in Microsoft Visual Studio importieren, um es anschliessend auf die Hololens zu übertragen. Dazu muss die Hololens einmalig konfiguriert werden, danach wird eine bestehende WLAN-Verbindung benötigt. In Visual Studio lässt sich die Applikation theoretisch debuggen. Der Debugger bricht aber teilweise an Stellen ab, die ohne Debugging in der Hololens funktionieren.
 
-[Fotos](https://drive.google.com/file/d/1uFvGLTio690VpV_w4jbUe7JQghB8_hUo/view)
+[Foto](https://drive.google.com/file/d/1uFvGLTio690VpV_w4jbUe7JQghB8_hUo/view)
 
 ## Technische Herausforderungen
 
