@@ -1,4 +1,4 @@
-![](../images/Holo_Keyvisual_1.jpg)
+![](../images/Holo_Keyvisual_0.jpg)
 
 # Holographic Grisons
 
