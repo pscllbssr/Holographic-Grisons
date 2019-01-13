@@ -41,9 +41,9 @@ Um unsere virtuellen, interaktiven Elemente korrekt zu platzieren, benötigten w
 
 Das erstellte Bergmodell hatte viel zu viele Polygone. Deshalb benutzten wir [Instant Meshes](https://github.com/wjakob/instant-meshes), um die Polygone zu reduzieren.
 
-### Cinema 4D
+### Cinema 4D & Adobe Illustrator
 
-In Cinema 4D haben wir die einzelnen 3D-Objekte für unsere Applikation modelliert.
+In Cinema 4D haben wir die einzelnen 3D-Objekte für unsere Applikation modelliert. Als Grundlage für diese Modelle dienten Pfade der Objekte, die im Adobe Illustrator zuvor aufbereitet wurden.
 
 ### Unity/C#
 
