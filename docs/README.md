@@ -59,6 +59,8 @@ In Cinema 4D haben wir die einzelnen 3D-Objekte für unsere Applikation modellie
 
 In der Entwicklungsumgebung Unity setzten wir die einzelnen Elemente zu einem ganzen, einer «Szene» zusammen. Die 3D-Objekte lassen sich importieren und im Raum platzieren. Die einzelnen Objekte werden mit Scripts (C#) versehen, um ihnen Funktionen und Interaktivität zu verleihen. Die gesamte Szene exportieren wir jeweils als Visual Studio Projekt.
 
+[Fotos](https://drive.google.com/drive/folders/1iBkJvMmiwRVM7Dk9LR-u0XMBA8HA8hvu)
+
 ### Microsoft Visual Studio
 
 Das in Unity erstellte Projekt lässt sich in Microsoft Visual Studio importieren, um es anschliessend auf die Hololens zu übertragen. Dazu muss die Hololens einmalig konfiguriert werden, danach wird eine bestehende WLAN-Verbindung benötigt. In Visual Studio lässt sich die Applikation theoretisch debuggen. Der Debugger bricht aber teilweise an Stellen ab, die ohne Debugging in der Hololens funktionieren. 
