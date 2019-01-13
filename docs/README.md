@@ -24,7 +24,8 @@ Um mehr über die Bedürfnisse der Benutzer herauszufinden, haben wir auf Papier
 
 * Schlichte Icons sind die besten Art, zusätzliche Informationen zum Wanderweg zu geben. Die Kombination aus Icons und deren Platzierung auf dem Berg geben dem Benutzer bereits sehr viele Informationen. 
 
-[Foto](https://drive.google.com/file/d/1RwajfRac7aVyCqmDlome30rL4C5gsaFi/view) [Foto](https://drive.google.com/file/d/1jRIPvun70_K187fLhVVRxX7rF8VVPZHW/view) [Foto]() [Foto]() [Foto]()
+[Foto](https://drive.google.com/file/d/1RwajfRac7aVyCqmDlome30rL4C5gsaFi/view) 
+[Foto](https://drive.google.com/file/d/1jRIPvun70_K187fLhVVRxX7rF8VVPZHW/view)
 
 ## Wireframes
 Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. Die Wireframes befinden sich unter [Wireframes in Adobe Cloude](https://xd.adobe.com/view/3bf63f25-fb30-4e24-566e-ac24fb3eb550-4dc7/)
@@ -34,6 +35,11 @@ Aus diesen Erkenntnissen haben wir Wireframes für unsere Applikation erstellt. 
 ### Bergmodell
 
 Unser Bergmodell haben wir von Hand aus Papier und Verpackungsmaterial erstellt. Es wurde zum Prototyping, Testing und zur Entwicklung verwendet.
+
+[Foto](https://drive.google.com/file/d/1gk8ku9ihvFKVEd1VlbBjJFyc6t63caFZ/view) 
+[Foto](https://drive.google.com/file/d/1f73N6bOYyTFKRAxbSq6Q0JInQJgthx0_/view)
+[Foto](https://drive.google.com/file/d/1oFDfF3l8meDF7TQad_SzbWnvkXm0YvZ4/view) 
+[Foto](https://drive.google.com/file/d/1Vklv3noWHzfA95X9vSyvC1KV4c9fVX9z/view)
 
 ### 3D Scanner
 
@@ -45,9 +51,17 @@ Um unsere virtuellen, interaktiven Elemente korrekt zu platzieren, benötigten w
 
 Das erstellte Bergmodell hatte viel zu viele Polygone. Deshalb benutzten wir [Instant Meshes](https://github.com/wjakob/instant-meshes), um die Polygone zu reduzieren.
 
+[Foto](https://drive.google.com/file/d/1OKlwQz9V8UymfM7sBHDi_xGtgvfggbZr/view) 
+
 ### Cinema 4D & Adobe Illustrator
 
 In Cinema 4D haben wir die einzelnen 3D-Objekte für unsere Applikation modelliert. Als Grundlage für diese Modelle dienten Pfade der Objekte, die im Adobe Illustrator zuvor aufbereitet wurden.
+
+[Foto]() 
+[Foto]() 
+[Foto]() 
+[Foto]() 
+[Foto]() 
 
 ### Unity/C#
 
