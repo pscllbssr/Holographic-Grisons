@@ -64,8 +64,9 @@ In der Entwicklungsumgebung Unity setzten wir die einzelnen Elemente zu einem ga
 
 ### Microsoft Visual Studio
 
-Das in Unity erstellte Projekt lässt sich in Microsoft Visual Studio importieren, um es anschliessend auf die Hololens zu übertragen. Dazu muss die Hololens einmalig konfiguriert werden, danach wird eine bestehende WLAN-Verbindung benötigt. In Visual Studio lässt sich die Applikation theoretisch debuggen. Der Debugger bricht aber teilweise an Stellen ab, die ohne Debugging in der Hololens funktionieren. 
+Das in Unity erstellte Projekt lässt sich in Microsoft Visual Studio importieren, um es anschliessend auf die Hololens zu übertragen. Dazu muss die Hololens einmalig konfiguriert werden, danach wird eine bestehende WLAN-Verbindung benötigt. In Visual Studio lässt sich die Applikation theoretisch debuggen. Der Debugger bricht aber teilweise an Stellen ab, die ohne Debugging in der Hololens funktionieren.
 
+[Fotos](https://drive.google.com/file/d/1uFvGLTio690VpV_w4jbUe7JQghB8_hUo/view)
 
 ## Technische Herausforderungen
 
